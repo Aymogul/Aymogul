@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aymogul
-- 👀 I’m interested in front-end and back-end web development 
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on projects to advance my skills in web development 
+- 👀 Cloud and DevOps engineer with commitment to implementing and building scalable cloud infrastructure 
+- 🌱 I’m proficient with several tools and technology used in development and operation 
+- 💞️ I’m looking to collaborate on projects to advance my skills in DevOps
 - 📫 How to reach me at aymogul22@gmail.com
 
 <!---
